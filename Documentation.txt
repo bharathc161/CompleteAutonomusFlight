@@ -1,0 +1,22 @@
+
+Still working on it:
+Aim: is to make drone fly on its own from required source to the 	destination.
+Possible by?:
+
+
+
+Let's breakdown it in few specific field to work with
+
+1.Using dji SDK
+(see below link for details)
+Using android Studio (interfacing it with google maps , we can get completely autonomous flight)
+https://github.com/…/source/android-tu…/GSDemo-Google-Map.md
+
+2. I am trying implementing few recent related papers, see below links for details
+
+https://www.mdpi.com/2504-446X/3/3/72/htm
+
+https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Farxiv.org%2Fpdf%2F1910.05547&ved=2ahUKEwi-kcCOm9nmAhVrwjgGHUm9B3wQFjAGegQICRAB&usg=AOvVaw09ivxCNk2hgETi7hHoWcPJ&fbclid=IwAR0_z0DNaOuJbYY5iUQwlkZInszpqMRgj60DP74AwmhduvGTTTcoknbtAAU
+
+And the brief idea of tools/platform will be working on DJI APIs, Node-RED(generally used to send commands to the drone), Watson IBM Studio, IBM cloud, opencv, keras, tensorflow ,etc.
+ 
